@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.example.listview.app-merged_res-31:/layout_thongtinchitiet.xml.flat",
+        "source": "com.example.listview.app-main-33:/layout/thongtinchitiet.xml"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.listview.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.listview.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_muong_icon.png.flat",
+        "source": "com.example.listview.app-main-33:/drawable/muong_icon.png"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_greater_nobg.png.flat",
+        "source": "com.example.listview.app-main-33:/drawable/greater_nobg.png"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_mixaobo.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/mixaobo.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_thitkhotrung.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/thitkhotrung.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_baseline_arrow_forward_24.xml.flat",
+        "source": "com.example.listview.app-main-33:/drawable/baseline_arrow_forward_24.xml"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.listview.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_monman_image.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/monman_image.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.listview.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_moncanh.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/moncanh.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_hutiuxao.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/hutiuxao.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_sales_icon.png.flat",
+        "source": "com.example.listview.app-main-33:/drawable/sales_icon.png"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.listview.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.listview.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_canhbau.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/canhbau.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_suonnuong.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/suonnuong.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.listview.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/layout_monan_layout.xml.flat",
+        "source": "com.example.listview.app-main-33:/layout/monan_layout.xml"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.listview.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.listview.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_nuoixaobo.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/nuoixaobo.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_canhcai.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/canhcai.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/layout_category_menu.xml.flat",
+        "source": "com.example.listview.app-main-33:/layout/category_menu.xml"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_monxao.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/monxao.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.listview.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.listview.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.listview.app-main-33:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_navigate.xml.flat",
+        "source": "com.example.listview.app-main-33:/drawable/navigate.xml"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.listview.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.listview.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.listview.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_thitboxaogiado.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/thitboxaogiado.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_canhmang.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/canhmang.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.listview.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_canhraumuong.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/canhraumuong.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.listview.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.listview.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_gakho.jpg.flat",
+        "source": "com.example.listview.app-main-33:/drawable/gakho.jpg"
+    },
+    {
+        "merged": "com.example.listview.app-merged_res-31:/drawable_vien_monan.xml.flat",
+        "source": "com.example.listview.app-main-33:/drawable/vien_monan.xml"
+    }
+]

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomePage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_centerInParent="true">
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="180dp"
+            android:src="@drawable/undraw_weather_re_qsmd"
+            android:layout_marginBottom="13dp"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_login"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/custom_button"
+            android:text="@string/login"
+            android:textSize="15dp"
+            android:textColor="@color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_sign_up"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/signup"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/custom_button"
+            android:textSize="15dp"
+            android:textColor="@color/white"/>
+
+        <ImageView
+            android:layout_width="285dp"
+            android:layout_height="30dp"
+            android:layout_marginBottom="12dp"
+            android:src="@drawable/or" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:text="@string/forgot_password"
+            android:id="@+id/txtview_forgot_password"
+            android:textColor="#55D5E7"
+            android:textStyle="bold"
+            android:textSize="17dp" />
+    </LinearLayout>
+
+    <Spinner
+        android:id="@+id/spinner_attribute"
+        android:layout_marginBottom="50dp"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="250dp"/>
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="160dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="-23dp"
+        android:layout_marginBottom="40dp"
+        android:src="@drawable/pic1" />
+</RelativeLayout>
